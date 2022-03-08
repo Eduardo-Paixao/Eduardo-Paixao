@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Paixão, formado em Ciências da Computação pelo centro universitário UNIGRANDE
 
-- 🔭 Estou trabalhando atualmente na empresa NESTEC Tecnologia onde atuo como lider técnico e desnvolvedor front-end utilizando React e TypeScript
+- 🔭 Trabalhei na empresa NESTEC Tecnologia onde atuei como lider técnico e desnvolvedor front-end utilizando React e TypeScript, hoje trabalho na Compass.uol atuando como desenvolvedor front-end júnior 
 - 🌱 Estudando: React e TypeScript
 
 <div align="center">
