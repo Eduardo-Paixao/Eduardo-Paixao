@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Eduardo Paixão, formado em Ciências da Computação pelo centro universitário UNIGRANDE
 
 - 🔭 Trabalhei em vários projetos onde atuei como lider técnico e desnvolvedor front-end utilizando React e TypeScript, hoje trabalho na Compass.uol atuando como desenvolvedor front-end 
-- 🌱 Estudando: React, TypeScript, Redux, Redux-saga, JavaScript, graphql, Jest e node.
+- 🌱 Estudando: React, TypeScript, Redux, Redux-saga, JavaScript, graphql, prisma, Jest e node.
 
 <div align="center">
   <a href="https://github.com/Eduardo-Paixao">
