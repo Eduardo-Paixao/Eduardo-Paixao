@@ -1,27 +1,74 @@
-### Olá! Eu sou o Eduardo Paixão, formado em Ciências da Computação pelo centro universitário UNIGRANDE
+<h1 align="center">Eduardo Paixão</h1>
 
-- 🔭 Trabalhei em vários projetos onde atuei como lider técnico e desnvolvedor front-end utilizando React e TypeScript, hoje trabalho na Compass.uol atuando como desenvolvedor front-end 
-- 🌱 Estudando: React, TypeScript, Redux, Redux-saga, JavaScript, graphql, prisma, Jest e node.
+<p align="center">
+  <i>Desenvolvedor Front-End focado em performance, acessibilidade e escalabilidade</i><br/>
+  <i>React | TypeScript | Next.js | Node.js | GraphQL | Prisma</i>
+</p>
 
-<div align="center">
-  <a href="https://github.com/Eduardo-Paixao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Paixao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Paixao&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://www.instagram.com/epsolucoes_em_informatica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Paixão#5832" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardo.mmpj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-melo-8b0135137" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/eduardopaixao" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://authify-front.vercel.app" target="_blank">
+    <img alt="Live Project" src="https://img.shields.io/badge/Authify-Live-informational?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Eduardo Paixão, graduado em Ciência da Computação pela Unigrande (Faculdade Integrada da Grande Fortaleza). Atuo como Desenvolvedor Front-End com mais de quatro anos de experiência, especializado em React, TypeScript, Next.js, GraphQL, Prisma e Node.js.​
+
+Tenho foco em criar interfaces performáticas, acessíveis e escaláveis. Sou proativo, comunicativo e colaborativo, sempre buscando aprimorar minhas habilidades e contribuir efetivamente em equipes de desenvolvimento. Atualmente, estou estudando inglês para expandir minhas oportunidades profissionais.
+
+---
+
+## 🚀 Projeto em Destaque: Authify
+
+🔐 Sistema completo de autenticação com painéis de gerenciamento de usuários, permissões e tokens.
+
+<p align="center">
+  <a href="https://authify-front.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar-Sistema-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+### 🧩 Front-End
+
+> [🔗 Repositório](https://github.com/Eduardo-Paixao/Authify-Front)
+
+- **Stack**: React, Next.js, TypeScript, GraphQL, Tailwind CSS
+- Interface limpa, intuitiva e responsiva
+
+### ⚙️ Back-End
+
+> [🔗 Repositório](https://github.com/Eduardo-Paixao/Authify-Back)
+
+- **Stack**: Fastify, GraphQL (Mercurius), Prisma, PostgresSQL
+- API robusta com autenticação JWT, validação e criptografia com bcrypt
+
+---
+
+## 🧠 Stack & Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,graphql,prisma,tailwind,postgres,mongodb,docker,vercel,github" />
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Paixao&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Paixao&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
+📢 [LinkedIn](https://www.linkedin.com/in/eduardo-melo-8b0135137/)  
+🖥️ [Sistema Authify (live)](https://authify-front.vercel.app)
+
