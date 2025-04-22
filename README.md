@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/eduardopaixao" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-melo-8b0135137/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://authify-front.vercel.app" target="_blank">
